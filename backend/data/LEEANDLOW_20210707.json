@@ -1,0 +1,1633 @@
+{
+  "ONIXMessage": {
+    "xmlns": "http://ns.editeur.org/onix/3.0/reference",
+    "release": "3.0",
+    "Header": {
+      "Sender": {
+        "SenderName": "Lee & Low Books",
+        "ContactName": "Alan Anderson",
+        "EmailAddress": "aanderson@leeandlow.com"
+      },
+      "SentDateTime": "20210707T173938"
+    },
+    "Product": [
+      {
+        "RecordReference": "Miosotis Flores Never Forgets",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "02",
+            "IDValue": "1643790668"
+          },
+          {
+            "ProductIDType": "15",
+            "IDValue": "9781643790664"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9781643790664"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "b032e754-f538-4d18-9042-e456d0d4b1cb"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "EA",
+          "ProductFormDetail": "E101",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitleText": "Miosotis Flores Never Forgets"
+            }
+          },
+          "Contributor": {
+            "SequenceNumber": "1",
+            "ContributorRole": "A01",
+            "PersonName": "Hilda Eunice Burgos",
+            "PersonNameInverted": "Burgos, Hilda Eunice",
+            "NamesBeforeKey": "Hilda Eunice",
+            "KeyNames": "Burgos",
+            "BiographicalNote": "<p>Hilda Eunice Burgos is the author of the middle-grade novels Ana María Reyes Does Not Live in a Castle and Miosotis Flores Never Forgets and the picture book The Cot in the Living Room. The daughter of Dominican immigrants, she lives with her family near Philadelphia, where she works as an environmental lawyer. Please visit her website at hildaeuniceburgos.com.</p>"
+          },
+          "NoEdition": "",
+          "Language": {
+            "LanguageRole": "01",
+            "LanguageCode": "eng"
+          },
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV039010"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV002070"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV011030"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "books for middle school girls;ages 9-12;rescue dogs;Dominican American;DR;Hispanic;Latinx;domestic violence;domestic abuse;LGBTQ;sisters;diverse middle grade;ownvoices;Meg Medina;grades 6-8;realistic fiction"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "02"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "4",
+                "7"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "9",
+                "12"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>Perfect for fans of Meg Medina and Barbara O'Connor, this heartfelt novel about family, pets, and other things we hold close is one that you'll never forget.</p><p>Miosotis Flores is excited about three things: fostering rescue dogs, goofy horror movies, and her sister Amarilis's upcoming wedding. School? Not on that list. But her papi cares about school more than anything else, so they strike a deal: If Miosotis improves her grades in two classes, she can adopt a dog of her own in the summer.</p>\r\n\r\n<p>Miosotis dives into her schoolwork, and into nurturing a fearful little pup called Freckles. Could he become her forever dog? At the same time, she notices Amarilis behaving strangely--wearing thick clothes in springtime, dropping her friends in favor of her fiancé, even avoiding Miosotis and the rest of their family.</p>\r\n\r\n<p>When she finally discovers her sister's secret, Miosotis faces some difficult choices. What do you do if someone is in danger, but doesn't want your help? When should you ask for support, and when should you try to handle things on your own? And what ultimately matters most--what Miosotis wants, or what's right for the ones she loves?</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p>Hilda Eunice Burgos is the author of the middle-grade novels Ana María Reyes Does Not Live in a Castle and Miosotis Flores Never Forgets and the picture book The Cot in the Living Room. The daughter of Dominican immigrants, she lives with her family near Philadelphia, where she works as an environmental lawyer. Please visit her website at hildaeuniceburgos.com.</p>"
+            },
+            {
+              "TextType": "14",
+              "ContentAudience": "00",
+              "Text": "Rory and I keep going until we reach the duck pond, and he heads straight toward the water. I hold him back. He sniffs his way near a gaggle of geese. They look a little vicious when they stand and waddle toward us, and some are even bigger than Rory, so I pick him up and run back to the trail. This dog definitely needs me to protect him.\r\n\r\nHe knows it too. When I put him down, he balances on his hind legs and licks my face all over, which tickles and makes me laugh. At the end of the trail, I check for traffic, then cross the street and head home. I stop in front of Gina’s house and look over at mine. Rory sits and looks at me, and I’m pretty sure he’s ready to follow me anywhere, like Gina said about Prissy and Max. I stand under the pine tree my parents planted in front of our house after their first Christmas together. Rory trots over and sits next to me again.\r\n\r\nWhat would happen if I took off Rory’s leash? Would he stick beside me? I know we just met, but dogs always like me, and Rory seems to have gotten attached already. Even though Papi said I have to wait until the summer—and the two As—to get a dog, I wonder what he’d do if he saw Rory. Would he notice that Rory looks like a fluffy teddy bear, like my mother’s dog Osito? Maybe Papi would get all sentimental and let me keep him. After all, he gets teary every time he talks about Osito and my mother. \"That dog followed her everywhere,\" he says. \"He stopped eating when she was gone.\"\r\n\r\nI get a great idea. I’ll take off Rory’s leash, he’ll follow me home, and Papi will look up from his newspaper. He’ll remember my mother’s dog, see how much Rory loves me, and say, Yes, you may certainly keep him right now. And then I won’t have to worry about an A in science, or about any of my other grades.\r\n\r\nJust as I unclip the leash, a squirrel scampers down our pine tree and zooms toward the busy avenue. Rory bursts down the sidewalk and chases after the squirrel. I gasp and stare at his blur of a tail, unable to move."
+            },
+            {
+              "TextType": "06",
+              "ContentAudience": "00",
+              "Text": "<p><b>Praise for <i>Ana María Reyes Does Not Live in a Castle</i>:</b></p>\r\n\r\n<p>An ALA Notable Children's Book<br />\r\nA NPR Best Book of the Year<br />\r\nA Junior Library Guild Gold Standard Selection</p>\r\n\r\n<p>\"An engaging, character-driven story ... An authentic representation of an immigrant, middle-class Latinx family who values education, community, and family and stays true to their roots.\" -- <i>School Library Journal</i>, starred review</p>\r\n\r\n<p>\"Burgos's characters have depth, and the community she portrays is complex, warm, and very real. Themes of socio-economic disparities, bilingualism, and straddling of two cultures are brought effortlessly and realistically into the story. Readers will find places in their hearts for this strong and multifaceted character.\" -- <i>Kirkus Reviews</i>, starred review</p>"
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>Perfect for fans of Meg Medina and Barbara O'Connor, this heartfelt novel about family, pets, and other things we hold close is one that you'll never forget.</p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Tu Books"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "02",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20211026"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "RegionsIncluded": "WORLD"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9781643790657"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "10",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "18.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      },
+      {
+        "RecordReference": "Miosotis Flores Never Forgets",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "15",
+            "IDValue": "9781643790657"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9781643790657"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "153dc26a-84ae-4a34-8677-5b42befa517a"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "BB",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "Measure": [
+            {
+              "MeasureType": "01",
+              "Measurement": "7.5",
+              "MeasureUnitCode": "in"
+            },
+            {
+              "MeasureType": "02",
+              "Measurement": "5",
+              "MeasureUnitCode": "in"
+            }
+          ],
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitleText": "Miosotis Flores Never Forgets"
+            }
+          },
+          "Contributor": {
+            "SequenceNumber": "1",
+            "ContributorRole": "A01",
+            "PersonName": "Hilda Eunice Burgos",
+            "PersonNameInverted": "Burgos, Hilda Eunice",
+            "NamesBeforeKey": "Hilda Eunice",
+            "KeyNames": "Burgos",
+            "BiographicalNote": "<p>Hilda Eunice Burgos is the author of the middle-grade novels Ana María Reyes Does Not Live in a Castle and Miosotis Flores Never Forgets and the picture book The Cot in the Living Room. The daughter of Dominican immigrants, she lives with her family near Philadelphia, where she works as an environmental lawyer. Please visit her website at hildaeuniceburgos.com.</p>"
+          },
+          "NoEdition": "",
+          "Language": {
+            "LanguageRole": "01",
+            "LanguageCode": "eng"
+          },
+          "Extent": {
+            "ExtentType": "00",
+            "ExtentValue": "304",
+            "ExtentUnit": "03"
+          },
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV039010"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV002070"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV011030"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "books for middle school girls;ages 9-12;rescue dogs;Dominican American;DR;Hispanic;Latinx;domestic violence;domestic abuse;LGBTQ;sisters;diverse middle grade;ownvoices;Meg Medina;grades 6-8;realistic fiction"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "02"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "4",
+                "7"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "9",
+                "12"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>Perfect for fans of Meg Medina and Barbara O'Connor, this heartfelt novel about family, pets, and other things we hold close is one that you'll never forget.</p><p>Miosotis Flores is excited about three things: fostering rescue dogs, goofy horror movies, and her sister Amarilis's upcoming wedding. School? Not on that list. But her papi cares about school more than anything else, so they strike a deal: If Miosotis improves her grades in two classes, she can adopt a dog of her own in the summer.</p>\r\n\r\n<p>Miosotis dives into her schoolwork, and into nurturing a fearful little pup called Freckles. Could he become her forever dog? At the same time, she notices Amarilis behaving strangely--wearing thick clothes in springtime, dropping her friends in favor of her fiancé, even avoiding Miosotis and the rest of their family.</p>\r\n\r\n<p>When she finally discovers her sister's secret, Miosotis faces some difficult choices. What do you do if someone is in danger, but doesn't want your help? When should you ask for support, and when should you try to handle things on your own? And what ultimately matters most--what Miosotis wants, or what's right for the ones she loves?</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p>Hilda Eunice Burgos is the author of the middle-grade novels Ana María Reyes Does Not Live in a Castle and Miosotis Flores Never Forgets and the picture book The Cot in the Living Room. The daughter of Dominican immigrants, she lives with her family near Philadelphia, where she works as an environmental lawyer. Please visit her website at hildaeuniceburgos.com.</p>"
+            },
+            {
+              "TextType": "14",
+              "ContentAudience": "00",
+              "Text": "Rory and I keep going until we reach the duck pond, and he heads straight toward the water. I hold him back. He sniffs his way near a gaggle of geese. They look a little vicious when they stand and waddle toward us, and some are even bigger than Rory, so I pick him up and run back to the trail. This dog definitely needs me to protect him.\r\n\r\nHe knows it too. When I put him down, he balances on his hind legs and licks my face all over, which tickles and makes me laugh. At the end of the trail, I check for traffic, then cross the street and head home. I stop in front of Gina’s house and look over at mine. Rory sits and looks at me, and I’m pretty sure he’s ready to follow me anywhere, like Gina said about Prissy and Max. I stand under the pine tree my parents planted in front of our house after their first Christmas together. Rory trots over and sits next to me again.\r\n\r\nWhat would happen if I took off Rory’s leash? Would he stick beside me? I know we just met, but dogs always like me, and Rory seems to have gotten attached already. Even though Papi said I have to wait until the summer—and the two As—to get a dog, I wonder what he’d do if he saw Rory. Would he notice that Rory looks like a fluffy teddy bear, like my mother’s dog Osito? Maybe Papi would get all sentimental and let me keep him. After all, he gets teary every time he talks about Osito and my mother. \"That dog followed her everywhere,\" he says. \"He stopped eating when she was gone.\"\r\n\r\nI get a great idea. I’ll take off Rory’s leash, he’ll follow me home, and Papi will look up from his newspaper. He’ll remember my mother’s dog, see how much Rory loves me, and say, Yes, you may certainly keep him right now. And then I won’t have to worry about an A in science, or about any of my other grades.\r\n\r\nJust as I unclip the leash, a squirrel scampers down our pine tree and zooms toward the busy avenue. Rory bursts down the sidewalk and chases after the squirrel. I gasp and stare at his blur of a tail, unable to move."
+            },
+            {
+              "TextType": "06",
+              "ContentAudience": "00",
+              "Text": "<p><b>Praise for <i>Ana María Reyes Does Not Live in a Castle</i>:</b></p>\r\n\r\n<p>An ALA Notable Children's Book<br />\r\nA NPR Best Book of the Year<br />\r\nA Junior Library Guild Gold Standard Selection</p>\r\n\r\n<p>\"An engaging, character-driven story ... An authentic representation of an immigrant, middle-class Latinx family who values education, community, and family and stays true to their roots.\" -- <i>School Library Journal</i>, starred review</p>\r\n\r\n<p>\"Burgos's characters have depth, and the community she portrays is complex, warm, and very real. Themes of socio-economic disparities, bilingualism, and straddling of two cultures are brought effortlessly and realistically into the story. Readers will find places in their hearts for this strong and multifaceted character.\" -- <i>Kirkus Reviews</i>, starred review</p>"
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>Perfect for fans of Meg Medina and Barbara O'Connor, this heartfelt novel about family, pets, and other things we hold close is one that you'll never forget.</p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Tu Books"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "02",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20211026"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "RegionsIncluded": "WORLD"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9781643790657"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "10",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "18.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      },
+      {
+        "RecordReference": "Black Was the Ink",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "02",
+            "IDValue": "1643794329"
+          },
+          {
+            "ProductIDType": "15",
+            "IDValue": "9781643794327"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9781643794327"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "b5d73a07-b1e4-4c19-a516-a357bb55a15b"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "EA",
+          "ProductFormDetail": "E101",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitleText": "Black Was the Ink"
+            }
+          },
+          "Contributor": [
+            {
+              "SequenceNumber": "1",
+              "ContributorRole": "A01",
+              "PersonName": "Michelle Coles",
+              "PersonNameInverted": "Coles, Michelle",
+              "NamesBeforeKey": "Michelle",
+              "KeyNames": "Coles",
+              "BiographicalNote": "<p><b>Michelle Coles</b> is an accomplished civil rights attorney and a proud alumna of the University of Virginia and Howard University School of Law. As a ninth-generation Louisianan, she is highly attuned to the struggles African Americans have faced in overcoming the legacy of slavery and the periods of government-sanctioned discrimination that followed. She hopes that by revealing oft-hidden Black history, her debut novel will empower young people with tools to shape their destiny. Find her on the web at michellecoles.com.</p>"
+            },
+            {
+              "SequenceNumber": "2",
+              "ContributorRole": "A12",
+              "PersonName": "Justin Johnson",
+              "PersonNameInverted": "Johnson, Justin",
+              "NamesBeforeKey": "Justin",
+              "KeyNames": "Johnson",
+              "BiographicalNote": "<p><b>Justin Johnson</b> credits his mother and grandmother, both teachers, with inspiring his love of picture books and storytelling. He studied children’s book illustration as well as animation at the Rhode Island School of Design, and now works as an illustrator, GIF animator, and aspiring art teacher. Justin lives in Washington, D.C. Find him on the web at justinjohnson.work or on Instagram as @the.k.in.cmyk.</p>",
+              "Website": {
+                "WebsiteRole": "33",
+                "WebsiteLink": "http://justinjohnson.work"
+              }
+            }
+          ],
+          "NoEdition": "",
+          "Language": {
+            "LanguageRole": "01",
+            "LanguageCode": "eng"
+          },
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF024160"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF046120"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF058190"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "Reconstruction;Black history;Black teens;ownvoices YA;Civil War;Klu Klux Klan;historical fiction;Civil Rights;Hiram Revels;Robert Smalls;Black Lives Matter;Black History Month;Washington D.C.;Mississippi;Freedm"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "03"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "8",
+                "12"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "13",
+                "18"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>Through the help of a ghostly ancestor, sixteen-year-old Malcolm is sent on a journey through Reconstruction-era America to find his place in modern-day Black progress.</p><p><b>Forgotten heroes still leave their mark.</b></p>\r\n\r\n<p>Malcolm Williams hasn't been okay for a while. He's angry and despondent and feels like nothing good ever happens for teens like him in D.C. All he wants is to be left alone in his room for the summer to draw or play video games--but no such luck. With growing violence in his neighborhood, his mother ships him off to his father's family farm in Mississippi, and Malcolm is anything but pleased.</p>\r\n\r\n<p>A few days after his arrival, his great-aunt tells him that the State is acquiring the farm to widen a highway. It's not news Malcolm is concerned about, but someone plans to make it his concern. One minute Malcolm is drawing in the farmhouse attic, and the next he's looking through the eyes of his ancestor Cedric Johnson in 1866.</p>\r\n\r\n<p>As Cedric, Malcolm meets the real-life Black statesmen who fought for change during the Reconstruction era: Hiram Revels, Robert Smalls, and other leaders who made American history. But even after witnessing their bravery, Malcolm's faith in his own future remains shaky, particularly since he knows that the gains these statesmen made were almost immediately stripped away. If those great men couldn't completely succeed, why should he try?</p>\r\n\r\n<p>Malcolm must decide which path to take. Can Cedric's experiences help him construct a better future? Or will he resign himself to resentments and defeat?</p>\r\n\r\n<p>Perfect for fans of Jason Reynolds and Nic Stone, and featuring illustrations by upcoming artist, Justin Johnson, <i>Black Was the Ink</i> is a powerful coming-of-age story and an eye-opening exploration of an era that defined modern America.</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p><b>Michelle Coles</b> is an accomplished civil rights attorney and a proud alumna of the University of Virginia and Howard University School of Law. As a ninth-generation Louisianan, she is highly attuned to the struggles African Americans have faced in overcoming the legacy of slavery and the periods of government-sanctioned discrimination that followed. She hopes that by revealing oft-hidden Black history, her debut novel will empower young people with tools to shape their destiny. Find her on the web at michellecoles.com.</p>\r\n\r\n<p><b>Justin Johnson</b> credits his mother and grandmother, both teachers, with inspiring his love of picture books and storytelling. He studied children’s book illustration as well as animation at the Rhode Island School of Design, and now works as an illustrator, GIF animator, and aspiring art teacher. Justin lives in Washington, D.C. Find him on the web at justinjohnson.work or on Instagram as @the.k.in.cmyk.</p>"
+            },
+            {
+              "TextType": "06",
+              "ContentAudience": "00",
+              "Text": "<p>\"A dynamic look at how the past informs the future.\" -- <i>Kirkus Reviews</i></p>"
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>Through the help of a ghostly ancestor, sixteen-year-old Malcolm is sent on a journey through Reconstruction-era America to find his place in modern-day Black progress.</p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Tu Books"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "02",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20211012"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "RegionsIncluded": "WORLD"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9781643794310"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "10",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "21.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      },
+      {
+        "RecordReference": "Black Was the Ink",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "15",
+            "IDValue": "9781643794310"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9781643794310"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "f3ead083-825e-43ac-990a-c908c86ca885"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "BB",
+          "ProductFormDetail": "B501",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "Measure": [
+            {
+              "MeasureType": "01",
+              "Measurement": "8.25",
+              "MeasureUnitCode": "in"
+            },
+            {
+              "MeasureType": "02",
+              "Measurement": "5.5",
+              "MeasureUnitCode": "in"
+            }
+          ],
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitleText": "Black Was the Ink"
+            }
+          },
+          "Contributor": [
+            {
+              "SequenceNumber": "1",
+              "ContributorRole": "A01",
+              "PersonName": "Michelle Coles",
+              "PersonNameInverted": "Coles, Michelle",
+              "NamesBeforeKey": "Michelle",
+              "KeyNames": "Coles",
+              "BiographicalNote": "<p><b>Michelle Coles</b> is an accomplished civil rights attorney and a proud alumna of the University of Virginia and Howard University School of Law. As a ninth-generation Louisianan, she is highly attuned to the struggles African Americans have faced in overcoming the legacy of slavery and the periods of government-sanctioned discrimination that followed. She hopes that by revealing oft-hidden Black history, her debut novel will empower young people with tools to shape their destiny. Find her on the web at michellecoles.com.</p>"
+            },
+            {
+              "SequenceNumber": "2",
+              "ContributorRole": "A12",
+              "PersonName": "Justin Johnson",
+              "PersonNameInverted": "Johnson, Justin",
+              "NamesBeforeKey": "Justin",
+              "KeyNames": "Johnson",
+              "BiographicalNote": "<p><b>Justin Johnson</b> credits his mother and grandmother, both teachers, with inspiring his love of picture books and storytelling. He studied children’s book illustration as well as animation at the Rhode Island School of Design, and now works as an illustrator, GIF animator, and aspiring art teacher. Justin lives in Washington, D.C. Find him on the web at justinjohnson.work or on Instagram as @the.k.in.cmyk.</p>",
+              "Website": {
+                "WebsiteRole": "33",
+                "WebsiteLink": "http://justinjohnson.work"
+              }
+            }
+          ],
+          "NoEdition": "",
+          "Language": {
+            "LanguageRole": "01",
+            "LanguageCode": "eng"
+          },
+          "Extent": {
+            "ExtentType": "00",
+            "ExtentValue": "368",
+            "ExtentUnit": "03"
+          },
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF024160"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF046120"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF058190"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "Reconstruction;Black history;Black teens;ownvoices YA;Civil War;Klu Klux Klan;historical fiction;Civil Rights;Hiram Revels;Robert Smalls;Black Lives Matter;Black History Month;Washington D.C.;Mississippi;Freedm"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "03"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "8",
+                "12"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "13",
+                "18"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>Through the help of a ghostly ancestor, sixteen-year-old Malcolm is sent on a journey through Reconstruction-era America to find his place in modern-day Black progress.</p><p><b>Forgotten heroes still leave their mark.</b></p>\r\n\r\n<p>Malcolm Williams hasn't been okay for a while. He's angry and despondent and feels like nothing good ever happens for teens like him in D.C. All he wants is to be left alone in his room for the summer to draw or play video games--but no such luck. With growing violence in his neighborhood, his mother ships him off to his father's family farm in Mississippi, and Malcolm is anything but pleased.</p>\r\n\r\n<p>A few days after his arrival, his great-aunt tells him that the State is acquiring the farm to widen a highway. It's not news Malcolm is concerned about, but someone plans to make it his concern. One minute Malcolm is drawing in the farmhouse attic, and the next he's looking through the eyes of his ancestor Cedric Johnson in 1866.</p>\r\n\r\n<p>As Cedric, Malcolm meets the real-life Black statesmen who fought for change during the Reconstruction era: Hiram Revels, Robert Smalls, and other leaders who made American history. But even after witnessing their bravery, Malcolm's faith in his own future remains shaky, particularly since he knows that the gains these statesmen made were almost immediately stripped away. If those great men couldn't completely succeed, why should he try?</p>\r\n\r\n<p>Malcolm must decide which path to take. Can Cedric's experiences help him construct a better future? Or will he resign himself to resentments and defeat?</p>\r\n\r\n<p>Perfect for fans of Jason Reynolds and Nic Stone, and featuring illustrations by upcoming artist, Justin Johnson, <i>Black Was the Ink</i> is a powerful coming-of-age story and an eye-opening exploration of an era that defined modern America.</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p><b>Michelle Coles</b> is an accomplished civil rights attorney and a proud alumna of the University of Virginia and Howard University School of Law. As a ninth-generation Louisianan, she is highly attuned to the struggles African Americans have faced in overcoming the legacy of slavery and the periods of government-sanctioned discrimination that followed. She hopes that by revealing oft-hidden Black history, her debut novel will empower young people with tools to shape their destiny. Find her on the web at michellecoles.com.</p>\r\n\r\n<p><b>Justin Johnson</b> credits his mother and grandmother, both teachers, with inspiring his love of picture books and storytelling. He studied children’s book illustration as well as animation at the Rhode Island School of Design, and now works as an illustrator, GIF animator, and aspiring art teacher. Justin lives in Washington, D.C. Find him on the web at justinjohnson.work or on Instagram as @the.k.in.cmyk.</p>"
+            },
+            {
+              "TextType": "06",
+              "ContentAudience": "00",
+              "Text": "<p>\"A dynamic look at how the past informs the future.\" -- <i>Kirkus Reviews</i></p>"
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>Through the help of a ghostly ancestor, sixteen-year-old Malcolm is sent on a journey through Reconstruction-era America to find his place in modern-day Black progress.</p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Tu Books"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "02",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20211012"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "RegionsIncluded": "WORLD"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9781643794310"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "10",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "21.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      },
+      {
+        "RecordReference": "Xochitl and the Flowers / Xóchitl, la Niña de las Flores",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "02",
+            "IDValue": "0892393602"
+          },
+          {
+            "ProductIDType": "15",
+            "IDValue": "9780892393602"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9780892393602"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "61f1a2b2-98d6-4c25-b0e8-38793bd7433d"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "EA",
+          "ProductFormDetail": "E101",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitleText": "Xochitl and the Flowers / Xóchitl, la Niña de las Flores"
+            }
+          },
+          "Contributor": [
+            {
+              "SequenceNumber": "1",
+              "ContributorRole": "A01",
+              "PersonName": "Jorge Argueta",
+              "PersonNameInverted": "Argueta, Jorge",
+              "NamesBeforeKey": "Jorge",
+              "KeyNames": "Argueta",
+              "BiographicalNote": "<p>Jorge Argueta is a prize-winning poet and teacher. Born in El Salvador, he came to San Francisco in 1980. The prolific author of several award-winning books, he is active in the cultural life of the city, teaches poetry in the public schools, and also works with humanitarian organizations to assist families and children in El Salvador.</p>"
+            },
+            {
+              "SequenceNumber": "2",
+              "ContributorRole": "A12",
+              "PersonName": "Carl Angel",
+              "PersonNameInverted": "Angel, Carl",
+              "NamesBeforeKey": "Carl",
+              "KeyNames": "Angel",
+              "BiographicalNote": "<p>Carl Angel is an artist, illustrator, and graphic designer whose work has been exhibited throughout the San Francisco Bay Area and Hawai'i. A Filipino American who grew up in Honolulu, Carl lives in San Leandro, California. He is the illustrator of several books, including <i>Willie Wins</i>, <i>Lakas and the Manilatown Fish</i>, and <i>Lakas and the Makibaka Hotel</i>.</p>"
+            }
+          ],
+          "NoEdition": "",
+          "Language": [
+            {
+              "LanguageRole": "01",
+              "LanguageCode": "eng"
+            },
+            {
+              "LanguageRole": "01",
+              "LanguageCode": "spa"
+            }
+          ],
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV039250"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV011030"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV039090"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "Contemporary Stories;Community;Family/Intergenerational;Immigrant Lives;Creating Change;Brave Women and Girls"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "02"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "1",
+                "5"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "6",
+                "10"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>IPPY Award, Independent Publisher Book Award (IPPY)</p><p>Bilingual English/Spanish. Miles away from their home in El Salvador, Xochitl (SOH-cheel) and her family make a new home in the United States, but nothing is the same.</p><p>Miles away from their home in El Salvador, Xochitl (SOH-cheel) and her family make a new home in the United States, but nothing is the same. Xochitl mourns a lovely garden and her family's small flower business, all left behind. Selling flowers on the street soon provides more than income for the Flores family: they begin to make friends with local storeowners and neighbors. But it is not until the family decides to start a nursery in its backyard that Xochitl begins to learn the true value of community in their adopted country. Basing his narrative on real-life events, prize-winning poet Jorge Argueta has crafted a tender, poetic, and moving story about a family's determination to set down roots and about their child's blooming among friends and neighbors. Artist Carl Angel's authentic and brilliant artwork splendidly documents this quintessentially American immigration story.</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p>Jorge Argueta is a prize-winning poet and teacher. Born in El Salvador, he came to San Francisco in 1980. The prolific author of several award-winning books, he is active in the cultural life of the city, teaches poetry in the public schools, and also works with humanitarian organizations to assist families and children in El Salvador.</p>\r\n\r\n<p>Carl Angel is an artist, illustrator, and graphic designer whose work has been exhibited throughout the San Francisco Bay Area and Hawai'i. A Filipino American who grew up in Honolulu, Carl lives in San Leandro, California. He is the illustrator of several books, including <i>Willie Wins</i>, <i>Lakas and the Manilatown Fish</i>, and <i>Lakas and the Makibaka Hotel</i>.</p>"
+            },
+            {
+              "TextType": "06",
+              "ContentAudience": "00",
+              "Text": "<p>\"This is a fine example of what a book with a bilingual text can and should be.\" -- <i>The Horn Book Guide</i></p>\r\n\r\n<p>\"Based on a true story, Xochitl's tale is well written in both languages... Angel's acrylic, colored-pencil, and photo-collage artwork is vibrant and energetic, fleshed out by the bright colors and individual faces.\" -- <i>School Library Journal</i></p>\r\n\r\n<p>\"Full of love for family and community, this bilingual story embodies the belief that positive action can overcome the negatives of circumstance.\" -- <i>Kirkus Reviews</i></p>\r\n\r\n<p>\"there is a great deal of warmth in this tale of immigrants trying to create their American dream while keeping alive their own culture.\" -- <i>Bayviews</i></p>\r\n\r\n<p>\"Intended for children ages eight to twelve, this book portrays the message of community in a lesson that can benefit people of all ages... It is a thoughtful story that will make readers reflect on their own contributions to their community.\" -- <i>ForeWord Magazine</i></p>\r\n\r\n<p>\"Side-by-side bilingual text is a particularly suitable format for this timeless immigration story. Radiant chalk illustrations present each scene tastefully. Xochitl's story is a superb read-aloud and a necessary component of school libraries that serve immigrant children. Recommended for all bookstores and library collections.\" -- <i>Críticas</i></p><p>IPPY Award, Independent Publisher Book Award (IPPY)</p>"
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>Bilingual English/Spanish. Miles away from their home in El Salvador, Xochitl (SOH-cheel) and her family make a new home in the United States, but nothing is the same.</p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Children's Book Press"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "04",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20140801"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "RegionsIncluded": "WORLD"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9780892392247"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "20",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "10.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      },
+      {
+        "RecordReference": "The Shadow Prince",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "15",
+            "IDValue": "9781643794280"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9781643794280"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "239b5690-9e55-4db1-bc08-68fecfcf2c7f"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "BB",
+          "ProductFormDetail": "B501",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "Measure": [
+            {
+              "MeasureType": "01",
+              "Measurement": "7.5",
+              "MeasureUnitCode": "in"
+            },
+            {
+              "MeasureType": "02",
+              "Measurement": "5",
+              "MeasureUnitCode": "in"
+            }
+          ],
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitlePrefix": "The",
+              "TitleWithoutPrefix": "Shadow Prince"
+            }
+          },
+          "Contributor": {
+            "SequenceNumber": "1",
+            "ContributorRole": "A01",
+            "PersonName": "David Anthony Durham",
+            "PersonNameInverted": "Durham, David Anthony",
+            "NamesBeforeKey": "David Anthony",
+            "KeyNames": "Durham",
+            "BiographicalNote": "<p><b>David Anthony Durham</b> is a Caribbean writer born in New York and raised primarily in the Mid-Atlantic area. He holds an MFA in creative writing from the University of Maryland, and has taught at the University of Maryland, the University of Massachusetts, The Colorado College, the Zora Neale Hurston/Richard Wright Foundation, Cal State University, and Hampshire College. David is the author of seven books for grown-ups. This is his first book for middle-grade readers.</p>",
+            "Website": {
+              "WebsiteRole": "33",
+              "WebsiteLink": "www.davidanthonydurham.com"
+            }
+          },
+          "NoEdition": "",
+          "Language": {
+            "LanguageRole": "01",
+            "LanguageCode": "eng"
+          },
+          "Extent": {
+            "ExtentType": "00",
+            "ExtentValue": "400",
+            "ExtentUnit": "03"
+          },
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV012050"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV052000"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "JUV037000"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "Ancient Egypt;Egyptian gods;solarpunk;Black heroes;books for 8 year old;black boys ages 8-13;Black Panther;Percy Jackson;Tristan Strong;Black Lightning;magic;monsters;battles;Hunger Games;Black boy joy;technolo"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "02"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "5",
+                "9"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "8",
+                "13"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>In this middle grade solarpunk novel set in an alternate Egyptian universe, twelve-year-old Ash must compete and survive to become the shadow--and protector--of the prince.</p><p><b>FIVE DEADLY TESTS, ONLY ONE SHADOW PRINCE</b></p>\r\n\r\n<p>Growing up in a village in the middle of the desert, Ash thinks his future holds nothing but sand, sun, a few annoying bullies, and lots of boring chores. Boy, is he wrong!</p>\r\n\r\n<p>On the night before his twelfth birthday, Ash learns that he was born on the same day as Prince Khufu, which makes him eligible to compete to be the prince's shadow, a coveted position as the friend and bodyguard of the boy destined to be pharaoh of all of Egypt. At first, Ash can't believe it, but when a floating royal barge takes Ash and his mentor to the bustling, magical, solar-powered capital, things get real.</p>\r\n\r\n<p>What awaits Ash and the candidates is deadly--five days of dangerous tests filled with demon fighting, monster slaying, and magical spells--each overseen by a different Egyptian god. Ash finds two friends willing to fight by his side--the first friends he's ever made. But there are candidates who will lie, cheat, and even harm others to win. Not all will survive, and only one can become the prince's shadow.</p>\r\n\r\n<p>To make matters worse, Ash is up against Lord Set, the devious god of chaos, who is secretly working to make the candidates fail. But if they do, the very survival of the kingdom is in peril. Can Ash and his new friends save Egypt? And will any of them survive to become the shadow prince?</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p><b>David Anthony Durham</b> was born in New York to a Caribbean family and raised primarily in the Mid- Atlantic area. He holds an MFA in creative writing from the University of Maryland, and teaches at the Stonecoast MFA Program and the University of Nevada, Reno. David is the author of seven books for grown-ups. <i>The Shadow Prince</i> is is his first book for middle-grade readers.</p>"
+            },
+            {
+              "TextType": "14",
+              "ContentAudience": "00",
+              "Text": "“I stepped into the royal audience chamber. For the briefest moment, I saw them: the pharaoh, the falcon- headed god, the goddess with a sun disk headdress, the prince, and the other court officials. I should have been trembling in awe from my head right down to my toes. And I would’ve been. Really, I would’ve. I had never been presented to royalty, to the rich and powerful, to gods, even! For a poor villager like me, this should have been an incredible moment. Except for one thing . . .\r\n\r\n     . . . the cave demon. \r\n\r\nHe stood in the center of the sparring ring. One glimpse was all I needed to know who he was: one of the nine Jackal-Headed Demons that Feed on Rottenness. No munching on antelope for this guy. Zebra? Apparently not. He goes for rottenness. I was glad it wasn’t Ammut, but still. Cave demons were the stuff of nightmares. Monsters, creatures who had been warped and twisted by the dark magic of evil sorcerers long ago. They were ancient, perhaps even immortal. According to Yazen, they weren’t the brightest of creatures either, but being smart wasn’t what they were about. Being deadly, that’s what they were into. \r\n\r\nThe pharaoh sighed. “All right, let us see what he can do. Young man, this has been a trying day. It is my hope that you will not perish in the next few moments. If you do, I will be truly saddened. But we have traditions to uphold.” He raised his voice and pronounced, “Demon, you may feed now."
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>In this middle grade solarpunk novel set in an alternate Egyptian universe, twelve-year-old Ash must compete and survive to become the shadow--and protector--of the prince.</p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Tu Books"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "02",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20211019"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "CountriesIncluded": "US"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9781643794280"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "10",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "21.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      },
+      {
+        "RecordReference": "Boys of the Beast",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "02",
+            "IDValue": "164379096X"
+          },
+          {
+            "ProductIDType": "15",
+            "IDValue": "9781643790961"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9781643790961"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "da498f2e-bfa1-4a74-b0c7-f9e9777cb884"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "EA",
+          "ProductFormDetail": "E101",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitleText": "Boys of the Beast"
+            }
+          },
+          "Contributor": {
+            "SequenceNumber": "1",
+            "ContributorRole": "A01",
+            "PersonName": "Monica Zepeda",
+            "PersonNameInverted": "Zepeda, Monica",
+            "NamesBeforeKey": "Monica",
+            "KeyNames": "Zepeda",
+            "BiographicalNote": "<p>Monica Zepeda is a Southern California native who spent her teen years in the desert wilds of Joshua Tree.She moved to Los Angeles, London, and Arizona before settling down permanently in L.A.Along the way, she's worked as a bookseller, produced reality television shows, and written plays, feature films, and video games. Monica now serves as a teen librarian and lives near the beach with her husband and their unbelievably cute cats. You can find her on the web at monicazepeda.com, on Twitter at @MZWrites, and on Instagram at @MZWrites2.</p>"
+          },
+          "NoEdition": "",
+          "Language": {
+            "LanguageRole": "01",
+            "LanguageCode": "eng"
+          },
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF046140"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF011000"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF018000"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "road trip;school shooting;Latinx teen books;trauma;depression;suicide;queer;LGBT;gay;YA;grades 9-12;ages 14, 15, 16, 17;books for teen boys;John Green;Oregon;California;New Mexico;Mexican American;cars;cousins"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "03"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "9",
+                "12"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "14",
+                "18"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>Three cousins. Four days. One car. This smart and fearless road-trip novel is perfect for fans of David Levithan, Benjamin Alire Saenz, or Meg Medina. </p><p><i><b>THE ROUTE. </b></i>Seventeen hundred miles from Portland, Oregon, to Albuquerque, New Mexico.</p>\r\n\r\n<p><b><i>THE BEAST.</i></b>Grandma Lupe's 1988 Ford Thunderbird Turbo Coupe.</p>\r\n\r\n<p><b><i>THE BOYS.</i></b>Three strangers who also happen to be cousins: </p>\r\n\r\n<p><b>Matt.</b>Evangelical Christian. Earnest. Film nerd. Carrying a dream to make movies--despite the future his father has planned for him.</p>\r\n\r\n<p><b>Ethan.</b>Jewish. Gay. Sci-fi nerd. Carrying a phone that contains his entire relationship with Levi--unless they finally get to meet IRL on this trip.</p>\r\n\r\n<p><b>Oscar.</b>Stoner. Smartass. Too cool to be a nerd. Carrying a letter that haunts him--no matter how hard he tries to escape it.</p>\r\n\r\n<p><b><i>THE END ...</i></b>just might be a new beginning.</p>\r\n\r\n<p>This powerful voyage in three voices marks the brilliant debut of Monica Zepeda.</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p>Monica Zepeda is a Southern California native who spent her teen years in the desert wilds of Joshua Tree. She moved to Los Angeles, London, and Arizona before settling down permanently in L.A. Along the way, she's worked as a bookseller, produced reality television shows, and written plays, feature films, and video games. Monica now serves as a teen librarian and lives near the beach with her husband and their unbelievably cute cats. You can find her on the web at monicazepeda.com, on Twitter at @MZWrites, and on Instagram at @MZWrites2.</p>"
+            },
+            {
+              "TextType": "14",
+              "ContentAudience": "00",
+              "Text": "<p><b>Ethan</b></p><p>Oscar pushes the shopping cart like a maniac. He's swerving around guys in button-downs and moms in yoga pants. He makes choo-choo noises as he races down an aisle. He's going to get us kicked out, but it's hilarious.</p><p>Matt's in the aisle with packing tape, pretending like he doesn't know us. But then Oscar slides the cart next to him. \"Whaddup, cuz?\"</p><p>Matt's trying not to lose it. I see the anger in his face draining as he takes a couple of deep breaths. Matt is one very repressed guy. Either he's going to have an ulcer by the time he's twenty, or he's going to end up a tool like Uncle Dennis.</p><p>He puts a couple of rolls of packing tape in the cart on top of the folded boxes we'd picked up earlier. \"Okay, we're ready to check out.\"</p><p>\"Then what?\" Oscar asks.</p><p>\"Then we go back to the house.\" Matt says it slow, as though Oscar is unbelievably stupid.</p><p>\"Come on, bro, we've got the car, we should do something.\"</p><p>I nod. \"Something other than sit in the den and watch that fucking Disney movie.\"</p><p>\"You said a bad word!\" Oscar singsongs. I don't know what he's on right now, but he should take it more often. He's actually fun to be around.</p><p>Matt takes another deep breath. \"The pizza will be delivered soon, and everyone will be waiting for us--\"</p><p>\"How are you getting the car to New Mexico, anyway?\" asks Oscar.</p><p>\"I'm driving it there.\"</p><p>\"By yourself?\" Oscar tilts his head like Ruby does when she's about to ask for a favor.</p><p>\"Yes. I have a physics class at the community college that starts after New Year's. I'm leaving tomorrow.\"</p><p>\"Bro,\" Oscar says, \"we should go with you.\"</p><p><br></p><p><b>Oscar</b></p><p>      \"We?\" Matt blinks, but Ethan looks like he got lost in Costco looking for food samples and ended up in an aisle surrounded by tampons.</p><p>      \"We?\" Matt repeats.</p><p>      \"Yeah. We.\" I am not at all fazed by their lack of enthusiasm."
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>Three cousins. Four days. One car. This smart and fearless road-trip novel is perfect for fans of David Levithan, Benjamin Alire Saenz, or Meg Medina. </p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Tu Books"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "02",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20220101"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "RegionsIncluded": "WORLD"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9781643790954"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "10",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "19.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      },
+      {
+        "RecordReference": "Boys of the Beast",
+        "NotificationType": "03",
+        "ProductIdentifier": [
+          {
+            "ProductIDType": "15",
+            "IDValue": "9781643790954"
+          },
+          {
+            "ProductIDType": "03",
+            "IDValue": "9781643790954"
+          },
+          {
+            "ProductIDType": "01",
+            "IDTypeName": "ONIX_NOSEQ",
+            "IDValue": "9df85f1e-efd4-415f-b8ea-abfefeecce2d"
+          }
+        ],
+        "DescriptiveDetail": {
+          "ProductComposition": "00",
+          "ProductForm": "BB",
+          "ProductFormDetail": "B501",
+          "ProductFormFeature": {
+            "ProductFormFeatureType": "12",
+            "ProductFormFeatureValue": "22",
+            "ProductFormFeatureDescription": "No California Proposition 65 hazard warning necessary"
+          },
+          "ProductPackaging": "00",
+          "PrimaryContentType": "10",
+          "Measure": [
+            {
+              "MeasureType": "01",
+              "Measurement": "8.25",
+              "MeasureUnitCode": "in"
+            },
+            {
+              "MeasureType": "02",
+              "Measurement": "5.5",
+              "MeasureUnitCode": "in"
+            }
+          ],
+          "NoCollection": "",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": {
+              "TitleElementLevel": "01",
+              "TitleText": "Boys of the Beast"
+            }
+          },
+          "Contributor": {
+            "SequenceNumber": "1",
+            "ContributorRole": "A01",
+            "PersonName": "Monica Zepeda",
+            "PersonNameInverted": "Zepeda, Monica",
+            "NamesBeforeKey": "Monica",
+            "KeyNames": "Zepeda",
+            "BiographicalNote": "<p>Monica Zepeda is a Southern California native who spent her teen years in the desert wilds of Joshua Tree.She moved to Los Angeles, London, and Arizona before settling down permanently in L.A.Along the way, she's worked as a bookseller, produced reality television shows, and written plays, feature films, and video games. Monica now serves as a teen librarian and lives near the beach with her husband and their unbelievably cute cats. You can find her on the web at monicazepeda.com, on Twitter at @MZWrites, and on Instagram at @MZWrites2.</p>"
+          },
+          "NoEdition": "",
+          "Language": {
+            "LanguageRole": "01",
+            "LanguageCode": "eng"
+          },
+          "Extent": {
+            "ExtentType": "00",
+            "ExtentValue": "304",
+            "ExtentUnit": "03"
+          },
+          "Subject": [
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF046140"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF011000"
+            },
+            {
+              "SubjectSchemeIdentifier": "10",
+              "SubjectSchemeVersion": "2018",
+              "SubjectCode": "YAF018000"
+            },
+            {
+              "SubjectSchemeIdentifier": "20",
+              "SubjectHeadingText": "road trip;school shooting;Latinx teen books;trauma;depression;suicide;queer;LGBT;gay;YA;grades 9-12;ages 14, 15, 16, 17;books for teen boys;John Green;Oregon;California;New Mexico;Mexican American;cars;cousins"
+            }
+          ],
+          "Audience": {
+            "AudienceCodeType": "01",
+            "AudienceCodeValue": "03"
+          },
+          "AudienceRange": [
+            {
+              "AudienceRangeQualifier": "11",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "9",
+                "12"
+              ]
+            },
+            {
+              "AudienceRangeQualifier": "18",
+              "AudienceRangePrecision": [
+                "03",
+                "04"
+              ],
+              "AudienceRangeValue": [
+                "14",
+                "18"
+              ]
+            }
+          ]
+        },
+        "CollateralDetail": {
+          "TextContent": [
+            {
+              "TextType": "03",
+              "ContentAudience": "00",
+              "Text": "<p>Three cousins. Four days. One car. This smart and fearless road-trip novel is perfect for fans of David Levithan, Benjamin Alire Saenz, or Meg Medina. </p><p><i><b>THE ROUTE. </b></i>Seventeen hundred miles from Portland, Oregon, to Albuquerque, New Mexico.</p>\r\n\r\n<p><b><i>THE BEAST.</i></b>Grandma Lupe's 1988 Ford Thunderbird Turbo Coupe.</p>\r\n\r\n<p><b><i>THE BOYS.</i></b>Three strangers who also happen to be cousins: </p>\r\n\r\n<p><b>Matt.</b>Evangelical Christian. Earnest. Film nerd. Carrying a dream to make movies--despite the future his father has planned for him.</p>\r\n\r\n<p><b>Ethan.</b>Jewish. Gay. Sci-fi nerd. Carrying a phone that contains his entire relationship with Levi--unless they finally get to meet IRL on this trip.</p>\r\n\r\n<p><b>Oscar.</b>Stoner. Smartass. Too cool to be a nerd. Carrying a letter that haunts him--no matter how hard he tries to escape it.</p>\r\n\r\n<p><b><i>THE END ...</i></b>just might be a new beginning.</p>\r\n\r\n<p>This powerful voyage in three voices marks the brilliant debut of Monica Zepeda.</p>"
+            },
+            {
+              "TextType": "12",
+              "ContentAudience": "00",
+              "Text": "<p>Monica Zepeda is a Southern California native who spent her teen years in the desert wilds of Joshua Tree. She moved to Los Angeles, London, and Arizona before settling down permanently in L.A. Along the way, she's worked as a bookseller, produced reality television shows, and written plays, feature films, and video games. Monica now serves as a teen librarian and lives near the beach with her husband and their unbelievably cute cats. You can find her on the web at monicazepeda.com, on Twitter at @MZWrites, and on Instagram at @MZWrites2.</p>"
+            },
+            {
+              "TextType": "14",
+              "ContentAudience": "00",
+              "Text": "<p><b>Ethan</b></p><p>Oscar pushes the shopping cart like a maniac. He's swerving around guys in button-downs and moms in yoga pants. He makes choo-choo noises as he races down an aisle. He's going to get us kicked out, but it's hilarious.</p><p>Matt's in the aisle with packing tape, pretending like he doesn't know us. But then Oscar slides the cart next to him. \"Whaddup, cuz?\"</p><p>Matt's trying not to lose it. I see the anger in his face draining as he takes a couple of deep breaths. Matt is one very repressed guy. Either he's going to have an ulcer by the time he's twenty, or he's going to end up a tool like Uncle Dennis.</p><p>He puts a couple of rolls of packing tape in the cart on top of the folded boxes we'd picked up earlier. \"Okay, we're ready to check out.\"</p><p>\"Then what?\" Oscar asks.</p><p>\"Then we go back to the house.\" Matt says it slow, as though Oscar is unbelievably stupid.</p><p>\"Come on, bro, we've got the car, we should do something.\"</p><p>I nod. \"Something other than sit in the den and watch that fucking Disney movie.\"</p><p>\"You said a bad word!\" Oscar singsongs. I don't know what he's on right now, but he should take it more often. He's actually fun to be around.</p><p>Matt takes another deep breath. \"The pizza will be delivered soon, and everyone will be waiting for us--\"</p><p>\"How are you getting the car to New Mexico, anyway?\" asks Oscar.</p><p>\"I'm driving it there.\"</p><p>\"By yourself?\" Oscar tilts his head like Ruby does when she's about to ask for a favor.</p><p>\"Yes. I have a physics class at the community college that starts after New Year's. I'm leaving tomorrow.\"</p><p>\"Bro,\" Oscar says, \"we should go with you.\"</p><p><br></p><p><b>Oscar</b></p><p>      \"We?\" Matt blinks, but Ethan looks like he got lost in Costco looking for food samples and ended up in an aisle surrounded by tampons.</p><p>      \"We?\" Matt repeats.</p><p>      \"Yeah. We.\" I am not at all fazed by their lack of enthusiasm."
+            },
+            {
+              "TextType": "02",
+              "ContentAudience": "00",
+              "Text": "<p>Three cousins. Four days. One car. This smart and fearless road-trip novel is perfect for fans of David Levithan, Benjamin Alire Saenz, or Meg Medina. </p>"
+            }
+          ]
+        },
+        "PublishingDetail": {
+          "Imprint": {
+            "ImprintName": "Tu Books"
+          },
+          "Publisher": {
+            "PublishingRole": "01",
+            "PublisherName": "Lee & Low Books",
+            "Website": {
+              "WebsiteRole": "01",
+              "WebsiteLink": "leeandlow.com"
+            }
+          },
+          "CityOfPublication": "New York City",
+          "CountryOfPublication": "US",
+          "PublishingStatus": "02",
+          "PublishingDate": {
+            "PublishingDateRole": "01",
+            "Date": "20220208"
+          },
+          "SalesRights": {
+            "SalesRightsType": "01",
+            "Territory": {
+              "RegionsIncluded": "WORLD"
+            }
+          }
+        },
+        "RelatedMaterial": {
+          "RelatedWork": {
+            "WorkRelationCode": "01",
+            "WorkIdentifier": {
+              "WorkIDType": "15",
+              "IDValue": "9781643790954"
+            }
+          }
+        },
+        "ProductSupply": {
+          "SupplyDetail": {
+            "Supplier": {
+              "SupplierRole": "00",
+              "SupplierName": "Lee & Low Books"
+            },
+            "ReturnsConditions": {
+              "ReturnsCodeType": "02",
+              "ReturnsCode": "C"
+            },
+            "ProductAvailability": "10",
+            "Price": {
+              "PriceType": "01",
+              "DiscountCoded": {
+                "DiscountCodeType": "02",
+                "DiscountCodeTypeName": "Lee & Low Discount",
+                "DiscountCode": "LLD"
+              },
+              "PriceAmount": "19.95",
+              "CurrencyCode": "USD"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

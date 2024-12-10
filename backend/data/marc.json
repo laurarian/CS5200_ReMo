@@ -1,0 +1,365 @@
+[
+  {
+    "identifiers": [
+      "DISPLAYABLEISBNORISSN",
+      "0000000001",
+      "BIBID"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": false
+    },
+    "title": "Title",
+    "publisher": "Publisher",
+    "publicationYear": "PublicationYear",
+    "language": "Language",
+    "edition": "Edition",
+    "electronicResource": "ElectronicResource",
+    "callNumber": "CallNumber",
+    "callNumberPrefix": "CallNumberPrefix",
+    "recordControlNumber": "0000000001",
+    "recordTimestamp": "20180508154627.0",
+    "fixedData": "180508s9999    xx            000 0 und d"
+  },
+  {
+    "identifiers": [
+      "053109488X",
+      "0531087883 (LIB. BGDG.)",
+      "(COMPANION)7055311C973"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Bearing witness :",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "HIST 940.53 ROCHMAN",
+    "callNumberPrefix": null,
+    "recordControlNumber": "103",
+    "recordTimestamp": "20210811114312.0",
+    "fixedData": "950316s1995    nyuab  j b    000 0deng  "
+  },
+  {
+    "identifiers": [
+      "0064470482 (PBK.)",
+      "0758702388 (BWI BDG.)",
+      "9780064470483",
+      "9780758702388",
+      "9780329019518",
+      "0329019511",
+      "(COMPANION)7055311C884"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Banner in the sky /",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": "1st Harper Trophy ed.",
+    "electronicResource": null,
+    "callNumber": "[Fic]",
+    "callNumberPrefix": null,
+    "recordControlNumber": "101",
+    "recordTimestamp": "20210809135052.0",
+    "fixedData": "961120r19881954nyu    j      000 1 eng d"
+  },
+  {
+    "identifiers": [
+      "0760712166"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Ansel Adams",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "770.92 JENN aa",
+    "callNumberPrefix": null,
+    "recordControlNumber": "974",
+    "recordTimestamp": "20150305093946.0",
+    "fixedData": "150305s1998                  000 0 eng d"
+  },
+  {
+    "identifiers": [
+      "0395562422 :",
+      "(DLC)91024997 /AC"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "The story of money /",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "332.4 MAE",
+    "callNumberPrefix": null,
+    "recordControlNumber": "208",
+    "recordTimestamp": "20120927113401.0",
+    "fixedData": "990908s1993    nyuab  j      00010 eng  "
+  },
+  {
+    "identifiers": [
+      "1568472676",
+      "10003"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "United Nations-peacekeeper?/",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "341.5 JOH",
+    "callNumberPrefix": null,
+    "recordControlNumber": "101",
+    "recordTimestamp": "20070906085431.0",
+    "fixedData": "980828n                      000 0 und u"
+  },
+  {
+    "identifiers": [
+      "9780329650933",
+      "9780060728311 (TRADE BDG.)",
+      "0060728310 (TRADE BDG.)",
+      "9780060728328 (LIB. BDG.)",
+      "0060728329 (LIB. BDG.)",
+      "(OCOLC)OCM71329760",
+      "0000000000000"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Soul Eater /",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": "1st ed.",
+    "electronicResource": null,
+    "callNumber": "JF/PAV",
+    "callNumberPrefix": null,
+    "recordControlNumber": "32584",
+    "recordTimestamp": "20171102183751.0",
+    "fixedData": "080603b        |||||||c||||||||||||eng|u"
+  },
+  {
+    "identifiers": [
+      "9780374305505",
+      "0374305501",
+      "(ICRLF)1520VH"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "The summer of Owen Todd",
+    "publisher": "Farrar Straus Giroux",
+    "publicationYear": "2017.",
+    "language": null,
+    "edition": "1st ed., 2017.",
+    "electronicResource": null,
+    "callNumber": "FIC ABB",
+    "callNumberPrefix": null,
+    "recordControlNumber": "fol17908946",
+    "recordTimestamp": "20171010134847.1",
+    "fixedData": "170522s2017    nyu    c      000 1 eng"
+  },
+  {
+    "identifiers": [
+      "9781449423056",
+      "1449423051"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Aaaa",
+    "publisher": "Andrews McMeel Pub., LLC,",
+    "publicationYear": "2012.",
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "GRA AAA",
+    "callNumberPrefix": null,
+    "recordControlNumber": "17239026",
+    "recordTimestamp": "20120402153554.0",
+    "fixedData": "120402s2012    mou           000 0 eng"
+  },
+  {
+    "identifiers": [
+      "(ICRLF)0580NP"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "March",
+    "publisher": "Top Shelf Productions",
+    "publicationYear": "2013",
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "GRA 323.1 LEW",
+    "callNumberPrefix": null,
+    "recordControlNumber": "fol14603931",
+    "recordTimestamp": "20160906105342.4",
+    "fixedData": "130813s2013    gaua          000 0deng d"
+  },
+  {
+    "identifiers": [
+      "9780593350546",
+      "(ICRLF)1635SX"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Agent most wanted :",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "92 GOI",
+    "callNumberPrefix": null,
+    "recordControlNumber": "fol20550403 ",
+    "recordTimestamp": "20220726170003.2",
+    "fixedData": "220404s2022    nyua   c b    001 0beng  "
+  },
+  {
+    "identifiers": [
+      "9781638892083",
+      "(ICRLF)2025TC"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Bugs /",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "FIC LIS",
+    "callNumberPrefix": null,
+    "recordControlNumber": "fol20739206 ",
+    "recordTimestamp": "20230803065423.5",
+    "fixedData": "230310s2023    cau    c      000 1 eng d"
+  },
+  {
+    "identifiers": [
+      "9781583416051",
+      "1583416056"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "The story of Google",
+    "publisher": "Creative Education,",
+    "publicationYear": "c2009.",
+    "language": null,
+    "edition": null,
+    "electronicResource": null,
+    "callNumber": "338.7 GIL",
+    "callNumberPrefix": null,
+    "recordControlNumber": "14804321",
+    "recordTimestamp": "20080929124427.0",
+    "fixedData": "070411s2009    mnua   j b    001 0 eng"
+  },
+  {
+    "identifiers": [
+      "9780062975195",
+      "(ICRLF)1777HW"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Amari and the Great Game /",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": "1st ed.",
+    "electronicResource": null,
+    "callNumber": "FIC ALS",
+    "callNumberPrefix": null,
+    "recordControlNumber": "fol20393548 ",
+    "recordTimestamp": "20221026082040.3",
+    "fixedData": "211112s2022    nyua   c      000 1 eng d"
+  },
+  {
+    "identifiers": [
+      "0152005420 :",
+      "91012892 /AC"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "A river ran wild :",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": "1st ed.",
+    "electronicResource": null,
+    "callNumber": "974.4 CHE",
+    "callNumberPrefix": null,
+    "recordControlNumber": "132",
+    "recordTimestamp": "20100727105428.0",
+    "fixedData": "920430s1992    cauab  j      00010 eng  "
+  },
+  {
+    "identifiers": [
+      "0439328748",
+      "(COMPANION)7055311C2657"
+    ],
+    "flags": {
+      "isDuplicate": false,
+      "hasCollision": false,
+      "isMissingData": true
+    },
+    "title": "Early Sunday morning :",
+    "publisher": null,
+    "publicationYear": null,
+    "language": null,
+    "edition": "1st ed.",
+    "electronicResource": null,
+    "callNumber": "F Den HI",
+    "callNumberPrefix": null,
+    "recordControlNumber": "107",
+    "recordTimestamp": "20210811064150.0",
+    "fixedData": "010920s2001    nyuab  c      000 1 eng d"
+  }
+]
