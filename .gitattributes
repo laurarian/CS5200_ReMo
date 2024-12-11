@@ -1,0 +1,5 @@
+
+*.mrc linguist-generated
+*.xlsx linguist-generated
+*.xml linguist-generated
+*.json linguist-generated
