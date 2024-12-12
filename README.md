@@ -4,20 +4,25 @@
 This project is designed for the Remo database to create a Pipeline that takes in book data from multiple sources and puts it into one central database. It includes:
 - **Frontend**: Built with React/Next.js for the user interface.
 - **Backend**: Built with Node.js and Express for the API services.
+- **Database**: MongoDB is used to store and manage the centralized book data.
 - **Data Files**: MARC, ONIX, and CSV files for book data resources.
-- **ER Diagram**: A visual representation of the database structure.
-- **Slides**: the slides to demonstrate our work and how to process different form of book data to json and insert into mongoDB.
-- https://docs.google.com/presentation/d/19rLKKA48c1Xn4Cw7Xue8VtIwqmbSotrfEWQ1UJVZCp0/edit#slide=id.g258719f2195_0_0
+- **ER Diagram**: A visual representation of the database structure (located in the `diagram` folder).
+- **Slides**: The slides to demonstrate our work and how to process different forms of book data to JSON and insert into MongoDB.
+  - [Slides Link](https://docs.google.com/presentation/d/19rLKKA48c1Xn4Cw7Xue8VtIwqmbSotrfEWQ1UJVZCp0/edit#slide=id.g258719f2195_0_0)
 
 ## Repository Structure
-frontend/  # Frontend application
-backend/   # Backend API services
+- `frontend/`: Frontend application
+- `backend/`: Backend API services
+- `diagram/`: Contains the ER Diagram of the database structure.
 
 ## Team Member
-RongHuang, Jianyu She, Xin Jiang
+- Rong Huang
+- Jianyu She
+- Xin Jiang
 
 ## How to Run the Project
-we have already deployed it on vercel: https://cs5200final.vercel.app/
+We have already deployed it on Vercel, you can directly visit our website using this link: [CS5200 Final Project](https://cs5200final.vercel.app/)
+
 You should also run it on your local machine as follows:
 
 ### Prerequisites
@@ -48,7 +53,7 @@ Ensure you have the following installed:
    ```
 3.  Start the development server:
    ```bash
-  npm run dev
+   npm run dev
    ```
 
 ## Environment Configuration
