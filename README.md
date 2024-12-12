@@ -17,7 +17,7 @@ backend/   # Backend API services
 RongHuang, Jianyu She, Xin Jiang
 
 ## How to Run the Project
-we have already deployed it on vercel: https://cs-5200-remo-rgw7gqdd6-reginas-projects-a96136eb.vercel.app
+we have already deployed it on vercel: https://cs5200final.vercel.app/
 You should also run it on your local machine as follows:
 
 ### Prerequisites
