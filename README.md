@@ -35,17 +35,21 @@ Ensure you have the following installed:
 3.  Start the backend server:
    ```bash
   node storeData.js
+   ```
 
 ### frontend
 1. Navigate to the frontend folder:
    ```bash
    cd frontend
+   ```
 2. Install dependencies:
    ```bash
    npm install
+   ```
 3.  Start the development server:
    ```bash
   npm run dev
+   ```
 
 ## Environment Configuration
 Create a `.env` file in the `frontend` directory with the following variables:
